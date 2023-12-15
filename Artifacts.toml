@@ -1,0 +1,60 @@
+[[QuEST]]
+arch = "aarch64"
+git-tree-sha1 = "a9babe3ef6fe412b24f2dd068e7a7008bb7e41fd"
+os = "macos"
+
+    [[QuEST.download]]
+    sha256 = "bb216d9904d1607b6838649bbc58c4422dc314d6da7bdd12ead5b317d72408bb"
+    url = "https://github.com/JuliaBinaryWrappers/QuEST_jll.jl/releases/download/QuEST-v3.7.0+0/QuEST.v3.7.0.aarch64-apple-darwin.tar.gz"
+[[QuEST]]
+arch = "i686"
+git-tree-sha1 = "99478b3163404a8ba0aca90491b02bf919aa924e"
+libc = "glibc"
+os = "linux"
+
+    [[QuEST.download]]
+    sha256 = "0ff1aab08874298940598ad82dae3e522038fa849d0c0d08ab1f3b057a9bb540"
+    url = "https://github.com/JuliaBinaryWrappers/QuEST_jll.jl/releases/download/QuEST-v3.7.0+0/QuEST.v3.7.0.i686-linux-gnu.tar.gz"
+[[QuEST]]
+arch = "i686"
+git-tree-sha1 = "c17d3a0c6d46b64920038f96a0e3f9e33c346f1c"
+libc = "musl"
+os = "linux"
+
+    [[QuEST.download]]
+    sha256 = "86a6b8d8e92e48415604193fe8a7a27f64e53f9663a707adaef4730816631a2d"
+    url = "https://github.com/JuliaBinaryWrappers/QuEST_jll.jl/releases/download/QuEST-v3.7.0+0/QuEST.v3.7.0.i686-linux-musl.tar.gz"
+[[QuEST]]
+arch = "x86_64"
+git-tree-sha1 = "81b6038915487300e4f38a0b663081ce0cbacdee"
+os = "macos"
+
+    [[QuEST.download]]
+    sha256 = "f5ab19424f5c1e776a7a3df02afa43a9ce6592e91b94143b9ab7616417cc79dc"
+    url = "https://github.com/JuliaBinaryWrappers/QuEST_jll.jl/releases/download/QuEST-v3.7.0+0/QuEST.v3.7.0.x86_64-apple-darwin.tar.gz"
+[[QuEST]]
+arch = "x86_64"
+git-tree-sha1 = "609385c2184375f8f2c067a9845bb859015c8c9e"
+libc = "glibc"
+os = "linux"
+
+    [[QuEST.download]]
+    sha256 = "ac0538f9dca1a695edcb9cbfdcec7efda3ab58ed2187d4050015f8cccbe6d7b9"
+    url = "https://github.com/JuliaBinaryWrappers/QuEST_jll.jl/releases/download/QuEST-v3.7.0+0/QuEST.v3.7.0.x86_64-linux-gnu.tar.gz"
+[[QuEST]]
+arch = "x86_64"
+git-tree-sha1 = "4b993cf3ddd8770b196a5bf11d6aada1523051ed"
+libc = "musl"
+os = "linux"
+
+    [[QuEST.download]]
+    sha256 = "1a5065ba518b6d107010e9c94ba1baccfbf6012a82c31ccfcd9371df1dbb0617"
+    url = "https://github.com/JuliaBinaryWrappers/QuEST_jll.jl/releases/download/QuEST-v3.7.0+0/QuEST.v3.7.0.x86_64-linux-musl.tar.gz"
+[[QuEST]]
+arch = "x86_64"
+git-tree-sha1 = "b64e98c2d5fb9859d483eea4d71fd13d1404b907"
+os = "freebsd"
+
+    [[QuEST.download]]
+    sha256 = "9feb6298b2f1ae7f287af6d87f1108049ee2c44fc0d8ee037d7dc1ac509385f5"
+    url = "https://github.com/JuliaBinaryWrappers/QuEST_jll.jl/releases/download/QuEST-v3.7.0+0/QuEST.v3.7.0.x86_64-unknown-freebsd.tar.gz"
